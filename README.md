@@ -8,7 +8,8 @@ St7789 display
 and jumper cables
 
 ## Tutorial
-[![V2](https://img.youtube.com/un0DwKbqhFQ/0.jpg)](https://youtu.be/un0DwKbqhFQ)
+
+[![V2](https://img.youtube.com/vi/un0DwKbqhFQ/0.jpg)](https://youtu.be/un0DwKbqhFQ)
 
 Lets continous with arduino code here it is. this code configure for st7789 240*280 resolation. With landscape view mode. Using a adafruit libraries.
  Sd card and display share a same spi pins.
