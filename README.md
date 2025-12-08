@@ -21,6 +21,6 @@ find your image and convert to bmp. And than copied all bmp file to sd card root
 
 thats all picture slide show with an arduino. 
 
-Dont forget SUBSCRIBE https://www.youtube.com/@DsnMechanics/featured
+Dont forget SUBSCRIBE https://www.youtube.com/@DsnIndustries/featured
 
 See you in next project
